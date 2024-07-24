@@ -4,11 +4,11 @@
 </p>
  
  
- <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=E22FE4&width=380&height=45&lines=Hi,+I%27m+Steven+Woods;Computer+Programming+Enthusiast;Self-taught+iOS+Dev+Engineer;&center=true"></a> </p>
+ <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=E22FE4&width=380&height=45&lines=Hi,+I%27m+Steven+Woods;Computer+Programming+Enthusiast;Self-taught+iOS+Dev+Engineer;&center=true"></p>
  
   
 <!--   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true">
 </p> -->
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhijeet-26)
